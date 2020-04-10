@@ -8,7 +8,7 @@ int main()
     printf("\t\t\t\t***********************************************");
     printf("\n\t\t\t\t*                                             *");
     printf("\n\t\t\t\t*                  WAITING TIME               *");
-    printf("\n\t\t\t\t*                              by "*AMBATI Vishnu teja reddy*");
+    printf("\n\t\t\t\t*                              by  Vishnu Teja*");
     printf("\n\t\t\t\t***********************************************");
 
     int choice;
